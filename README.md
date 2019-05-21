@@ -48,15 +48,20 @@ This directory contains some simple unit functions (`units.ts`) and correspondin
 # Tasks
 1. @TODO `./src/server.ts/`
 Add an endpoint to GET a list of cars.
+** Task completed
 
 2. @TODO `./src/server.ts/` 
 Add an endpoint to get a specific car.
+** Task completed
 
 3. @TODO `./src/server.ts/` 
 Add an endpoint to post a new car to our list.
+** Task completed
 
 4. @TODO `./src/unit-test-examples/units.ts`
 Try creating a method "concat" to concatenate two strings.
+** Task completed
 
 5. @TODO `./src/unit-test-examples/units.tests.ts`
 Try creating a new describe block for the "concat" method.
+** Task completed
