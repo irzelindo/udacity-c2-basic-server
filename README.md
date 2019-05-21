@@ -3,7 +3,7 @@
 This is a simple node-express server to explore and understand the Request-Response pattern.
 
 ***
-## Getting Setup
+## Getting Setup with Cloud Developer Nanodegree (CDND)
 
 ### Installing project dependencies
 
